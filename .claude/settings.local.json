@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(pip install *)",
+      "Bash(python add_aegis_slides.py)",
+      "Bash(del add_aegis_slides.py)"
+    ]
+  }
+}
