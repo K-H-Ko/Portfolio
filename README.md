@@ -1,6 +1,4 @@
-# Portfolio
-
-> 개인 포트폴리오 기록 공간
+# \# Project (Portfolio)
 
 ## ① Antidote — AI 기반 근로계약 보호 시스템
 
@@ -19,6 +17,14 @@
 3. 약 7,000건의 고품질 학습 데이터 직접 정제·증강
 4. Focal Loss + R-Drop 기법 결합 → 모델 논리적 일관성·정밀도 최적화, 층별 학습률 차등(Layerwise LR Decay) 적용으로 파인튜닝 안정성 확보
 5. 인력 이탈 위기 상황에서 AI 모델링부터 프론트엔드 전반까지 책임지며 핵심 기능 성공적으로 구현
+
+---
+
+### Antidote_Architecture
+
+<img src="Project_Image/Antidote_Image/Antidote_Architecture.png" width="100%" alt="Antidote 아키텍처">
+<br>
+<br>
 
 ---
 
@@ -41,6 +47,14 @@
 
 ---
 
+### Aegis_Architecture
+
+<img src="Project_Image/AI_Aegis_Image/Aegis_Architecture.png" width="100%" alt="Aegis 아키텍처">
+<br>
+<br>
+
+---
+
 ## ③ Public HR Analytics (PHA) — 공공기관 HR 이탈 예측·조직 건강도 분석 플랫폼
 
 휴먼IT교육센터 | 팀 프로젝트 (5인) | 2026.03.11 ~ 2026.03.23 (약 2주)
@@ -58,5 +72,13 @@
 2. 나이·근속연수 등 6가지 핵심 변수 기반 ML 예측 결과를 실시간 반영하는 통신 로직 구현
 3. 위험도를 CRITICAL/WARNING 등 등급으로 시각화하여 정보 전달 명확성 향상
 4. 연령층 다양한 팀에서 심리적 안정감 조성 및 갈등 중재, 일정 내 프로젝트 완수
+
+---
+
+### PHA_Architecture
+
+<img src="Project_Image/PHA_Image/PHA_Architecture.png" width="100%" alt="PHA 아키텍처">
+<br>
+<br>
 
 ---
